@@ -1,4 +1,4 @@
-# Hi there, I'm Rakshith Kumar Janga 👋
+# Hi there 👋
 
 ## About Me
 I'm **Rakshith Kumar Janga**, an engineer passionate about building systems that move, think, and react.  
