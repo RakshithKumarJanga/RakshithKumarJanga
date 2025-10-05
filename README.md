@@ -1,10 +1,10 @@
 # Hi there 👋
 
 ## About Me
-I'm **Rakshith Kumar Janga**, an engineer passionate about building systems that move, think, and react.  
-I specialize in developing **Powertrain Control Algorithms** for Hybrid and Electrified Vehicle programs.  
+I'm **Rakshith Kumar Janga**, a Senior Control Algorithm Engineer working in the Automotive Industry.  
+I have **7+ years of professional experience** in the design, development, and implementation of **Powertrain Control Algorithms** for HEV/BEV programs, as well as **Engine Performance Modelling**.  
 
-Curiosity about how machines make decisions has driven me to explore **Robotics** and **Embedded Control Systems**, where I focus on creating intelligent, responsive systems.
+Driven by curiosity about how machines make decisions, I also explored **Robotics** and **Embedded Control Systems**, building systems that integrate control, perception, and real-time decision-making.
 
 ---
 
